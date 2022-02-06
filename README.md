@@ -3,6 +3,7 @@ About: A basic obstacle avoidance system that uses the ATmega328 mcircontroller 
 
 This is RAMS: <br />
 <p align="center">
+!<img https://user-images.githubusercontent.com/82693292/152702500-210ea833-a2d9-4a7c-b7a3-52329b781607.jpg)
 
 </p>
 <br />
