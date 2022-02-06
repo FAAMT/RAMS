@@ -12,5 +12,4 @@ This is RAMS:
 </p>
 <br />
 
- <video src='
-https://user-images.githubusercontent.com/82693292/152702599-05d531be-b84d-48bf-9f83-1cf1f1ef376c.MOV'> 
+ <video src='https://user-images.githubusercontent.com/82693292/152702599-05d531be-b84d-48bf-9f83-1cf1f1ef376c.MOV'> 
