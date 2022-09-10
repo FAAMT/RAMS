@@ -1,5 +1,5 @@
-# Project Name: RAMS
-About: A basic obstacle avoidance system that uses the ATmega328 mcircontroller on the “SparkFun Redboard”. This project was programmed in C/C++ using the Arduino IDE.
+# Project Name: "RAMS" - Obstacle Avoidance Robot
+About: A basic obstacle avoidance system that uses the ATmega328 on the “SparkFun Redboard”. The software for this project was written in C/C++ using the Arduino IDE platform. This is an intermediate-level project that allows you to learn about the challenges of building autonomous machines.
 
 This is RAMS: 
 <br />
