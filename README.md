@@ -2,7 +2,7 @@
 ## About This Project
 <br />
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82693292/152702500-210ea833-a2d9-4a7c-b7a3-52329b781607.jpg" width=25%>
+<img src="https://user-images.githubusercontent.com/82693292/152702500-210ea833-a2d9-4a7c-b7a3-52329b781607.jpg" width=75%>
 </p>
 <br />
 
