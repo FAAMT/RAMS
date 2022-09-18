@@ -6,7 +6,7 @@
 </p>
 <br />
 
-|!<img src="https://user-images.githubusercontent.com/82693292/152702500-210ea833-a2d9-4a7c-b7a3-52329b781607.jpg" width=50%>|
+|![pic1](https://user-images.githubusercontent.com/82693292/152702500-210ea833-a2d9-4a7c-b7a3-52329b781607.jpg)|
 
 This project is on building a rudimentary obstacle avoidance system using a SparkFun Redboard and the Arduino IDE. The reason I started this project was my interest in unmanned ground vehicles (UGV). I wanted to get some experience in developing UGV systems and chose to build an obstacle avoidance robot. 
 
