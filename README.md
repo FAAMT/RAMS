@@ -17,7 +17,8 @@ His name is RAMS... which doesn't stand for anything meaningful :sweat_smile:. M
 
 | Component     | Image           |
 | ------------- |:-------------:|
-| [SparkFun RedBoard Artemis](https://www.sparkfun.com/products/15444) |<img src="/Users/fahadm./Desktop/GitHubRepo(s)/SparkfunBoard.jpg" width="250"/>| 
+| [SparkFun RedBoard Artemis](https://www.sparkfun.com/products/15444) |![] ![SparkfunBoard](https://user-images.githubusercontent.com/82693292/190883643-6b7adab9-fe72-466d-95ca-82967ae569f6.jpg)
+| 
 
 
 
