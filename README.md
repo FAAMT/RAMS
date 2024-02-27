@@ -8,7 +8,7 @@
 ## About This Project
 
 <p align="justified">
-This project is on building a rudimentary obstacle avoidance system using a SparkFun Redboard and the Arduino IDE. The reason I started this project was my interest in unmanned ground vehicles (UGV). I wanted to get some experience in developing UGV systems and chose to build an obstacle avoidance robot. His name is RAMS... which doesn't stand for anything meaningful :sweat_smile:. My roommate coined the name and it just kind of stuck. Anyways, I'm making this repository public for to remember this little guy. He was a simple creature but meant the world to me. 
+This project is on building a rudimentary obstacle avoidance system using a SparkFun Redboard and the Arduino IDE. The reason I started this project was my interest in unmanned ground vehicles (UGV). I wanted to get some experience in developing UGV systems and chose to build an obstacle avoidance robot. His name is RAMS... which doesn't stand for anything meaningful :sweat_smile:. My roommate coined the name and it just kind of stuck. Anyways, I'm making this repository public to remember this little guy. He was a simple creature but meant the world to me. 
 </p>
 
 ## RAMS Demo
